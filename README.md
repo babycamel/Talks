@@ -1,3 +1,3 @@
 # Talks
 
-This repo contains ome of my recent talks including job talks.
+This repo contains some of my recent talks including job talks.
