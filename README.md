@@ -8,7 +8,7 @@ This repo contains some of my recent talks including job talks.
 
 [A comparative analysis and survey of fisheries licensing regulations for Tuna in the WCPO](https://github.com/babycamel/Talks/blob/master/Suva-Beard-%20Review.pdf) presented Suva, April, 2025.
 
-[A retrieval augmented generation model with reasoning for the WCPFC tuna conservation management measures](https://github.com/babycamel/Talks/blob/master/Suva-Beard-RAG.pdf)
+[A retrieval augmented generation model with reasoning for the WCPFC tuna conservation management measures](https://github.com/babycamel/Talks/blob/master/Suva-Beard-RAG.pdf) presented Suva, April, 2025.
 
 [Predicting tuna prices using machine learning, IIFET Penang, Malaysia, 2024](https://github.com/babycamel/Talks/blob/master/Abstract-id-4-Beard-tuna-price-prediction.pdf).
 
