@@ -8,7 +8,7 @@ This repo contains some of my recent talks including job talks.
 
 [The Dual Margins of Conservation: The political
 economy of rent creation and dissipation in
-fisheries management](https://github.com/babycamel/Talks/blob/master/Rent_vs_rent.pdf) slides for presentation at IIFET, Torshavn, August 2026.
+fisheries management](https://github.com/babycamel/Talks/blob/master/Rent_vs_rent.pdf) slides for presentation at IIFET, Torshavn, August 2026 and to be presented at the Atlantic Canada Economic Association Conference, Wolfville, Nova Scotia, October, 2026.
 
 [A comparative analysis and survey of fisheries licensing regulations for Tuna in the WCPO](https://github.com/babycamel/Talks/blob/master/Suva-Beard-%20Review.pdf) presented Suva, April, 2025.
 
