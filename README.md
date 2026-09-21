@@ -6,6 +6,10 @@ This repo contains some of my recent talks including job talks.
 
 [Prices versus quantities in effort managed fisheries](CEA-2026-Prices_versus_quantities_in_effort_managed_fisheries.pdf) Slides for presentation at Canadian economic association, Vancouver, May 2026 and at IIFET, Torshavn, August 2026.
 
+[The Dual Margins of Conservation: The political
+economy of rent creation and dissipation in
+fisheries management](https://github.com/babycamel/Talks/blob/master/Rent_vs_rent.pdf) slides for presentation at IIFET, Torshavn, August 2026.
+
 [A comparative analysis and survey of fisheries licensing regulations for Tuna in the WCPO](https://github.com/babycamel/Talks/blob/master/Suva-Beard-%20Review.pdf) presented Suva, April, 2025.
 
 [A retrieval augmented generation model with reasoning for the WCPFC tuna conservation management measures](https://github.com/babycamel/Talks/blob/master/Suva-Beard-RAG.pdf) presented Suva, April, 2025.
