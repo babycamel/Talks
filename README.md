@@ -2,6 +2,8 @@
 
 This repo contains some of my recent talks including job talks.
 
+[Bridging econometrics and machine learning: Shaping a research agenda](https://github.com/babycamel/Talks/blob/master/bridging-econometrics-machine-learning.pdf), presented to the Transitional artificial intelligence research lab, School of Mathematics and Statistics, University of New South Wales, 28th October, 2026. 
+
 [Bilateral Fisheries Agreements](https://github.com/babycamel/Talks/blob/master/bilateral.pdf) presented at the University of Iceland, 18th September 2026.
 
 [Prices versus quantities in effort managed fisheries](CEA-2026-Prices_versus_quantities_in_effort_managed_fisheries.pdf) Slides for presentation at Canadian economic association, Vancouver, May 2026 and at IIFET, Torshavn, August 2026.
